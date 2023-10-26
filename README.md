@@ -1,2 +1,2 @@
 # Documentation
-Documentation for Reexpress one (macOS application)
+Documentation for **Reexpress one** (macOS application)
